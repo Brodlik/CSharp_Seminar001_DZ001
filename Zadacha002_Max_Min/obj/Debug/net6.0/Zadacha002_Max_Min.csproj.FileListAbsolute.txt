@@ -1,0 +1,15 @@
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\bin\Debug\net6.0\Zadacha002_Max_Min.exe
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\bin\Debug\net6.0\Zadacha002_Max_Min.deps.json
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\bin\Debug\net6.0\Zadacha002_Max_Min.runtimeconfig.json
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\bin\Debug\net6.0\Zadacha002_Max_Min.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\bin\Debug\net6.0\Zadacha002_Max_Min.pdb
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.csproj.AssemblyReference.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.AssemblyInfoInputs.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.AssemblyInfo.cs
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.csproj.CoreCompileInputs.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\refint\Zadacha002_Max_Min.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.pdb
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\Zadacha002_Max_Min.genruntimeconfig.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\CSharp_Seminar001_DZ001\Zadacha002_Max_Min\obj\Debug\net6.0\ref\Zadacha002_Max_Min.dll
